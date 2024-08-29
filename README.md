@@ -19,7 +19,7 @@ The user will be prompted to enter the following parameters:
 
 **Fluid viscosity**
 
-**Reynolds Number Calculation: **
+**Reynolds Number Calculation:**
 
 The Reynolds number will be calculated using the formula:
 
@@ -39,8 +39,8 @@ Turbulent flow: Re >= 4000
 
 The provided Python code effectively implements the above methodology. It defines functions to calculate the Reynolds number and classify the flow based on the calculated value. The main() function handles user input and output.
 
-**Expected Outcomes:
-**
+**Expected Outcomes:**
+
 By running the application, users will be able to:
 
 Input fluid properties and pipe dimensions.
