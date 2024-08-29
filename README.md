@@ -35,6 +35,11 @@ The calculated Reynolds number will be compared to the following thresholds:
 
 **Turbulent flow: Re >= 4000**
 
+
+![Fluid_Flow_Classification_image](https://github.com/user-attachments/assets/9f48e359-66b2-4c37-80e2-13192734db0a) 
+
+
+
 **Output:** The calculated Reynolds number and the corresponding flow regions (laminar, transitional, or turbulent) will be displayed to the user.
 
 **Python Implementation:**
