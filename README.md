@@ -29,9 +29,11 @@ The Reynolds number will be calculated using the formula:
 
 The calculated Reynolds number will be compared to the following thresholds:
 
-Laminar flow: Re <= 2100
-Transitional flow: 2100 < Re < 4000
-Turbulent flow: Re >= 4000
+**Laminar flow: Re <= 2100**
+
+**Transitional flow: 2100 < Re < 4000**
+
+**Turbulent flow: Re >= 4000**
 
 **Output:** The calculated Reynolds number and the corresponding flow regions (laminar, transitional, or turbulent) will be displayed to the user.
 
